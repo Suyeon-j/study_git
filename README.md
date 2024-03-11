@@ -9,3 +9,4 @@
 
 
 > [240227_oml 정리](https://github.com/Suyeon-j/study_oml/blob/main/240227/240227.md)
+>> [training_sql](https://github.com/Suyeon-j/study_oml/blob/main/240227/training_sql.md)
