@@ -1,4 +1,4 @@
-[training_sql.ipynb](https://github.com/Suyeon-j/study_oml/blob/main/240227/training_sql.ipynb)https://github.com/Suyeon-j/study_oml/blob/main/240227/training_sql.ipynb
+[training_sql.ipynb](https://github.com/Suyeon-j/study_oml/blob/main/240227/training_sql.ipynb)
 
 ```
 속성: label, path, split, is_query, is_gallery // 모두 NOT NULL 
